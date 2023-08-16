@@ -1,0 +1,89 @@
+.partone{
+
+    background-color: black;
+    overflow: hidden;
+}
+
+.partone a{
+
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 20px 25px;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.partone a:hover{
+
+background-color: grey;
+color: black;
+}
+
+
+.parttwo{
+
+    text-align: center;
+    
+}
+
+p{
+
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+h1{
+
+    background-color: crimson;
+    color: gold;
+}
+.logo{
+
+    width: 175px;
+    
+    border-radius: 50%;
+    
+}
+
+.partthree{
+
+    background:linear-gradient(to right, aquamarine, blue, pink);
+    
+    font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    margin:0;
+}
+
+.partthree{
+
+    padding: 50px;
+
+    text-align: center;
+
+    color: white;
+}
+
+.products{
+
+    display: inline-block;
+
+    margin: 20px;
+
+    border: 3px solid white;
+
+box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.9);
+
+border-radius: 10px;
+height:200px;
+width:200px;
+}
+
+.partfour{
+
+    text-align: center;
+
+    background-color: black;
+    
+    color: white;
+}
